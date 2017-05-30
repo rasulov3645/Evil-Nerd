@@ -32,13 +32,12 @@ public class Bender {
             counter++;
             System.out.println("Введи оценку " + counter + " ученика:");
             ocenka = enter.nextInt();
-            if (ocenka <= 5 && ocenka > 0) {
-                summa += ocenka;
-            }
-            else {
+            while (ocenka > 5 || ocenka <= 0) {
                 System.out.println("Введи корректную оценку!!!");
                 ocenka = enter.nextInt();
             }
+            summa += ocenka;
+
         }
         System.out.println("Средний балл класса равен: " + summa / kolvo);
 
