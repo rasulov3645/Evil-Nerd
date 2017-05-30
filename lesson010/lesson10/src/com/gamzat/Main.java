@@ -40,16 +40,6 @@ public class Main {
             default:
                 System.out.println("В этом мире слишком мало пива!");
                 break;
-
-
-
-
-
         }
-
-
-
-
-
     }
 }
