@@ -10,6 +10,5 @@ public class Bender {
         Homer = 110;
 
         System.out.println(Homer > 115 ? "Да, Гомер очень жирный!!!" : "Гомер довольно спортивный чувак!!!");
-        
     }
 }
