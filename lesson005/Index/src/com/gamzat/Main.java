@@ -7,6 +7,6 @@ public class Main {
         Scanner Bender = new Scanner(System.in);
 
         System.out.println(Bender.nextLine());
-        
+
     }
 }
