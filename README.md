@@ -37,3 +37,11 @@ x--
 if, elseif, else. 
 
 
+# Урок 10 - Оператор switch()
+switch(условия)
+{
+	case: 1 break;
+	case: 2 break; 
+	case: 3 break; 
+	default: break; 
+}
