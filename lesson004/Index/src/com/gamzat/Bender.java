@@ -12,7 +12,7 @@ public class Bender {
         System.out.println("Я хочу ");
         System.out.println(Bart);
         System.out.println("долларов в день!");
-        
+
     }
 
 
