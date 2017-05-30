@@ -14,7 +14,7 @@ public class Main {
         System.out.println("Введите первое число: ");
         FirstNumber = Bender.nextDouble();
         System.out.println("Введите второе число: ");
-        SecondNumber = Bender.nextDouble(); 
+        SecondNumber = Bender.nextDouble();
 
         Result = FirstNumber + SecondNumber;
         System.out.println("Сумма равна: " + Result);
