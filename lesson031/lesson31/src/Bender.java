@@ -3,7 +3,7 @@
  *
  * рок 31 - Массивы в методах
  *
- * 
+ *
  */
 public class Bender {
     public static void main(String[] args) {
@@ -12,7 +12,6 @@ public class Bender {
 
         // Вызов метода
         title(heroes);
-
 
 
         for (String i: heroes) {
@@ -24,6 +23,7 @@ public class Bender {
     public static void title (String t[]){
         for (int i = 0; i < t.length; i++) {
             t[i] += " - та еще штучка!";
+            //t[i] = "Та еще штучка - " + t[i] + "!";
         }
     }
 
