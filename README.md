@@ -141,4 +141,4 @@ class ИмяКласса {
 
 
 
-
+Урок 30 - Расширенный цикл For (enhanced for loop)
