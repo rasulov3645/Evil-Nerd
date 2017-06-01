@@ -14,7 +14,7 @@ public class Bender {
         System.out.printf("%s\n", PhillipFry2.toDisplay());
         System.out.printf("%s\n", PhillipFry3.toDisplay());
         System.out.printf("%s\n", PhillipFry4.toDisplay());
-        
+
     }
 
 }
