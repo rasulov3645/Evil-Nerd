@@ -197,3 +197,17 @@ class ИмяКласса {
 
 # Урок 48 - Иерархия в Java (extends)
 
+
+# Урок 49 - GUI (Графический интерфейс)
+
+GUI - глафический интерфейс пользователя. 
+
+/* Библиотека отвечаеть за окно. */ 
+import  javax.swing.JOptionPane;
+
+
+// методы 
+JOptionPane.showInputDialog
+JOptionPane.showMessageDialog
+
+
