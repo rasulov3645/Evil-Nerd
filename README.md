@@ -203,23 +203,27 @@ class ИмяКласса {
 GUI - глафический интерфейс пользователя. 
 
 /* Библиотека отвечаеть за окно. */ 
-import  javax.swing.JOptionPane;
+```
+**import  javax.swing.JOptionPane;**
+```
 
-
+```
 /* методы  */
 
 /* Ввод данных */ 
-**JOptionPane.showInputDialog
+**JOptionPane.showInputDialog**
 
 /* Вывод данных */
-**JOptionPane.showMessageDialog
+**JOptionPane.showMessageDialog**
 
+```
 
 # Урок 50 - GUI - JFrame и JLabel
 
 
-Урок 51 - GUI - JFrame, JOptionPane, JTextField, JPasswordField
-'''java
+# Урок 51 - GUI - JFrame, JOptionPane, JTextField, JPasswordField
+
+```java
 import java.awt.FlowLayout;
 import java.awt.event.ActionListener;    /* Прослушиваеть события */
 import java.awt.event.ActionEvent;       /* Геагирует на эти события */
@@ -227,4 +231,8 @@ import javax.swing.JFrame;               /* Само окно */
 import javax.swing.JTextField;           /* Текствое поля для ввода данных */
 import javax.swing.JPasswordField;       /* Поля с паролем */
 import javax.swing.JOptionPane;          /* Всплываюшая окошка */
-'''java
+```java
+
+
+# Урок 52 - GUI - JFrame, JOptionPane, JTextField, JPasswordField (часть 2)
+
