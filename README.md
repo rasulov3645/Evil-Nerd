@@ -206,8 +206,15 @@ GUI - глафический интерфейс пользователя.
 import  javax.swing.JOptionPane;
 
 
-// методы 
-JOptionPane.showInputDialog
-JOptionPane.showMessageDialog
+/* методы  */
+
+/* Ввод данных */ 
+**JOptionPane.showInputDialog
+
+/* Вывод данных */
+**JOptionPane.showMessageDialog
+
+
+# Урок 50 - GUI - JFrame и JLabel
 
 
