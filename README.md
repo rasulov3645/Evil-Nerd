@@ -231,8 +231,12 @@ import javax.swing.JFrame;               /* Само окно */
 import javax.swing.JTextField;           /* Текствое поля для ввода данных */
 import javax.swing.JPasswordField;       /* Поля с паролем */
 import javax.swing.JOptionPane;          /* Всплываюшая окошка */
-```java
+```
 
 
 # Урок 52 - GUI - JFrame, JOptionPane, JTextField, JPasswordField (часть 2)
+
+
+# Урок 53 - GUI - JFrame, JOptionPane, JTextField, JPasswordField (часть 3)
+
 
